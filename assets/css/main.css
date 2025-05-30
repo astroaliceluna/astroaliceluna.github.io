@@ -1,6 +1,7 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
 @import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kapakana:wght@300..400&display=swap');
 
 
 /*
@@ -1918,7 +1919,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			font-family: 'Spicy Rice', cursive;
+			font-family: 'Kapakana', cursive;
 			font-weight: 700;
 			color: #be95c4;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
