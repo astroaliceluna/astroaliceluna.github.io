@@ -98,12 +98,13 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro';
-		font-weight: 300;
-		color: #777;
-		line-height: 1.65em;
+		font-family: Garamond, "Times New Roman", serif;
+		font-weight: 400;
+		color: #333;
+		line-height: 1.6em;
 		font-size: 15pt;
 	}
+
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 600;
