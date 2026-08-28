@@ -1309,8 +1309,8 @@ input, select, textarea {
 
 	body {
 		background-image: url("images/overlay.png"), url("images/gals 2.jpg");
-		background-repeat: repeat, no-repeat;
-		background-size: auto, 100% 100%;
+		background-repeat: repeat, repeat;
+		background-size: auto, auto;
 		background-attachment: fixed;
 		overflow-y: scroll;
 	}
